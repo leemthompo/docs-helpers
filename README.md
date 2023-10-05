@@ -1,2 +1,2 @@
 # docs-helpers
-Automate tedium
+Little scripts for tactical tedium reduction
