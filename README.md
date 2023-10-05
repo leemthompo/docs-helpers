@@ -1,0 +1,2 @@
+# docs-helpers
+Automate tedium
